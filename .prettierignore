@@ -1,0 +1,7 @@
+*.yaml
+*.yml
+*.md
+coverage
+google-credentials.json
+package.json
+package-lock.json
