@@ -8,8 +8,8 @@ export default function Bio() {
 				<CustomLink href="https://github.com/zk182">
 					open source enthusiast
 				</CustomLink>
-				. I like Javascript, Deno and fast websites. I work at
-				<CustomLink href="https://denode.com/"> denode</CustomLink> company,
+				. I like Javascript, Deno and fast websites. I work at{' '}
+				<CustomLink href="https://denode.com/">denode</CustomLink> company,
 				building solutions and contributing to open source tools. I am
 				mostly a backend guy. Probably reading some web spec right now.
 			</p>
