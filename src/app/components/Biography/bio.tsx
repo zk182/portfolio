@@ -14,6 +14,11 @@ export default function Bio() {
 				mostly a backend guy. Probably reading some web spec right now.
 			</p>
 			<p className="mt-16">
+				Need my cv? Get it{' '}
+				<CustomLink href="https://nicobatt-cv.vercel.app/">here</CustomLink>
+				.
+			</p>
+			<p className="mt-16">
 				Wanna talk about something? Email me at{' '}
 				<CustomLink href="mailto:nicobattmdq@gmail.com">
 					nicobattmdq@gmail.com
