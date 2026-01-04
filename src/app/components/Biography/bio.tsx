@@ -8,11 +8,19 @@ export default function Bio() {
 				<CustomLink href="https://github.com/zk182">
 					open source enthusiast
 				</CustomLink>
-				. I like Javascript, Deno and fast websites. I work at{' '}
-				<CustomLink href="https://modo.com.ar/">modo</CustomLink> company,
-				building solutions and contributing to open source tools. I am
-				mostly a backend guy. Probably reading some web spec right now.
-			</p>
+				. I like Javascript, Go & lately been diving into Rust 🦀. Working
+				at <CustomLink href="https://modo.com.ar/">modo</CustomLink>{' '}
+				building a{' '}
+				<CustomLink href="https://www.linkedin.com/pulse/transformando-el-transporte-p%C3%BAblico-con-vqr-en-as%C3%AD-la-di-loreto-bpc7f/?trackingId=Yr0G9Xs1QZCFa4MBnf1GRg%3D%3D">
+					transport
+				</CustomLink>{' '}
+				solution from scratch used all over Argentina. Mostly, a backend
+				guy. Reading about{' '}
+				<CustomLink href="https://blog.levelupcoding.com/">
+					designs
+				</CustomLink>{' '}
+				right now
+			</p>{' '}
 			<p className="mt-16">
 				Need my cv? Get it{' '}
 				<CustomLink href="https://nicobatt-cv.vercel.app/">here</CustomLink>
