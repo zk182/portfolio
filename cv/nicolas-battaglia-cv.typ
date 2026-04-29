@@ -124,10 +124,14 @@
 #grid(
   columns: (auto, 1fr),
   gutter: 6pt,
-  [*Languages*], [Node.js, JavaScript / TypeScript, Go (learning), Rust (learning)],
-  [*Infrastructure*], [AWS, Kubernetes, Docker],
-  [*Backend*], [Distributed systems, REST, GraphQL, gRPC, PostgreSQL, Redis],
-  [*Frontend*], [React, Socket.io],
+  [*Languages*], [Node.js, JavaScript, TypeScript, Go (learning), Rust (learning)],
+  [*Infrastructure*], [AWS, Terraform, Kubernetes, Docker],
+  [*Structures*], [SQS, SNS, Lambdas],
+  [*Backend*], [Distributed systems, REST, GraphQL, gRPC, PostgreSQL, MongoDB, Redis],
+  [*Frontend*], [React, Astro],
+  [*Tools*], [Datadog, Stripe, Socket.io],
+  [*Odm/Orm*], [Knex, Mongoose],
+  [*Tests*], [Jest, Mocha, Cucumber],
 )
 
 // --- Education ---
