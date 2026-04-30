@@ -70,9 +70,9 @@
   "MODO",
   "Feb 2025 – Present",
   (
-    [Develops payment infrastructure for a QR-based system processing ~150K daily users across Argentina.],
+    [Developed payment infrastructure for a QR-based system processing ~150K daily users across Argentina.],
     [Built end-to-end trip and payment flows, including offline QR support and fraud prevention systems.],
-    [Owns production incident management and on-call for core payment services.],
+    [Owned production incident management and on-call for core payment services.],
   )
 )
 
