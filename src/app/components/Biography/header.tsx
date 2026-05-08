@@ -11,7 +11,8 @@ export default function Header() {
 					alt="Nicolas Battaglia"
 					width={160}
 					height={160}
-					quality={100}
+					quality={75}
+					sizes="(max-width: 768px) 128px, 160px"
 					priority
 				/>
 			</div>
