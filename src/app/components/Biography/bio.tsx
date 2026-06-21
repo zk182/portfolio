@@ -17,16 +17,16 @@ export default function Bio() {
 				right now
 			</p>{' '}
 			<p className="mt-16">
-				My cv{' -> '}
+				My cv
 				<CustomLink href="/nicolas-battaglia-cv.pdf" download>
-					Nicolas Battaglia CV (PDF)
+					here
 				</CustomLink>
 				.
 			</p>
 			<p className="mt-16">
 				Want to deep dive into my work?{' '}
 				<CustomLink href="https://nicobattcv.vercel.app/">
-					Nicolas Battaglia — portfolio & work
+					portfolio
 				</CustomLink>
 			</p>
 			<p className="mt-16">
