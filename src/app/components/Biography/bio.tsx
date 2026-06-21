@@ -10,7 +10,10 @@ export default function Bio() {
 				<CustomLink href="https://blog.levelupcoding.com/">
 					software design patterns
 				</CustomLink>{' '}
-				right now
+				and{' '}
+				<CustomLink href="https://frontendmasters.com/blog/your-node-js-streams-arent-backpressuring-theyre-silently-eating-your-memory/">
+					backpressure
+				</CustomLink>{' '}
 			</p>{' '}
 			<p className="mt-16">
 				My cv{' '}
@@ -20,7 +23,7 @@ export default function Bio() {
 				.
 			</p>
 			<p className="mt-16">
-				Want to deep dive into my work? Heres my
+				Want to deep dive into my work? Here{"'"}s my
 				<CustomLink href="https://nicobattcv.vercel.app/">
 					portfolio
 				</CustomLink>
