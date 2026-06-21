@@ -28,6 +28,7 @@ export default function Bio() {
 				<CustomLink href="https://nicobattcv.vercel.app/">
 					portfolio
 				</CustomLink>
+				.
 			</p>
 			<p className="mt-16">
 				Wanna talk about something? Email me at{' '}
