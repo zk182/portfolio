@@ -13,7 +13,8 @@ export default function Bio() {
 				and{' '}
 				<CustomLink href="https://frontendmasters.com/blog/your-node-js-streams-arent-backpressuring-theyre-silently-eating-your-memory/">
 					backpressure
-				</CustomLink>{' '}
+				</CustomLink>
+				.
 			</p>{' '}
 			<p className="mt-16">
 				Need my cv? Get it{' '}
