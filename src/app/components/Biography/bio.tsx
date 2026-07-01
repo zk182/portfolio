@@ -17,20 +17,15 @@ export default function Bio() {
 				.
 			</p>{' '}
 			<p className="mt-16">
-				Need my cv? Get it{' '}
+				In case you need my CV, you can find it{' '}
 				<CustomLink href="/nicolas-battaglia-cv.pdf" download>
 					here
 				</CustomLink>
-				.
+				, and{' '}
+				<CustomLink href="https://nicobattcv.vercel.app/">this</CustomLink>
+				is a deep dive into my work.
 			</p>
-			<p className="mt-16">
-				Want to deep dive into my work? Here{"'"}s my{' '}
-				<CustomLink href="https://nicobattcv.vercel.app/">
-					portfolio
-				</CustomLink>
-				.
-			</p>
-			<p className="mt-16">
+			<p className="mt-32">
 				Wanna talk about something? Email me at{' '}
 				<CustomLink href="mailto:nicobattmdq@gmail.com">
 					nicobattmdq@gmail.com
