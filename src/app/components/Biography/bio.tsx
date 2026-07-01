@@ -22,7 +22,7 @@ export default function Bio() {
 					here
 				</CustomLink>
 				, and{' '}
-				<CustomLink href="https://nicobattcv.vercel.app/">this</CustomLink>
+				<CustomLink href="https://nicobattcv.vercel.app/">this</CustomLink>{' '}
 				is a deep dive into my work.
 			</p>
 			<p className="mt-32">
